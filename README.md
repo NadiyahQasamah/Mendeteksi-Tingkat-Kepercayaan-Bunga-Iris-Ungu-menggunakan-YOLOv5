@@ -10,7 +10,7 @@ Peracancangan dibuat dengan mengkloning _repository _YOLOv5 dan mendapatkan klas
 
 ![image](https://github.com/user-attachments/assets/cf141b35-a84d-4604-a235-f6c0cb6da14a)
 
-5. Percobaan
+4. Percobaan
 Percobaan dilakukan dengan memasukkan data setelah dilakukan klasifikasi dan mengujinya dengan penerapan algoritma YOLOv5 pada _google colab_
 
 # Hasil Pembahasan
