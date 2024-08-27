@@ -18,7 +18,7 @@ Serta terdapat output berupa kurva _precision-recall_dengan kurva tertinggi pali
 ![image](https://github.com/user-attachments/assets/d326de3d-fa8a-4f67-8c80-939d80689256)
 
 # Hasil dengan mendeteksi gambar
-![image](https://github.com/user-attachments/assets/a5205213-c249-4fd4-a8a4-da517551991a)
 Mendeteksi Bunga iris ungu menggunakan gambar dengan tingkat kepercayaan 92%
-![image](https://github.com/user-attachments/assets/881e7ffb-f9c3-4283-8a91-3f09e899bc1e)
+![image](https://github.com/user-attachments/assets/a5205213-c249-4fd4-a8a4-da517551991a)
 Mendeteksi Bunga iri ungu secara _real time_ dengan tingkat kepercayaan 86%
+![image](https://github.com/user-attachments/assets/881e7ffb-f9c3-4283-8a91-3f09e899bc1e)
