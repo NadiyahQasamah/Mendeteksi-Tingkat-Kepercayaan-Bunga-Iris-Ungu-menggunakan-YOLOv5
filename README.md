@@ -17,5 +17,5 @@ Dari hasil yang dilakukan terdapat pembagian gambar/citra
 Dengan menggunakan _img_ 416, _batch_ 8 dan _epochs_ 80. memperoleh grafik model _training_ dan validasi
 ![image](https://github.com/user-attachments/assets/d3c782e5-3e5f-434e-a88f-a1188e00cd11)
 
-Serta terdapat output berupa kurva _precision-recall_ dengan kurva tertinggi paling tinggi yaitu bunga iri ungu, dapat dikatakan kinerja model berjalan dengan baik pada saat mengenali objek yang diuji_
+Serta terdapat output berupa kurva _precision-recall_dengan kurva tertinggi paling tinggi yaitu bunga iri ungu, dapat dikatakan kinerja model berjalan dengan baik pada saat mengenali objek yang diuji
 ![image](https://github.com/user-attachments/assets/d326de3d-fa8a-4f67-8c80-939d80689256)
