@@ -14,7 +14,7 @@ Peracancangan dibuat dengan mengkloning repository YOLOv5 dan mendapatkan klasif
 Percobaan dilakukan dengan memasukkan data setelah dilakukan klasifikasi dan mengujinya dengan penerapan algoritma YOLOv5 pada _google colab_
 
 # Hasil Pembahasan
-Dari hasil yang dilakukan terdapat pembagian gambar/citra sebanyak 88% _training data_, 8% _valid data_, 4% _tenting data_. Dengan menggunakan _img_ 416, _batch_ 8 dan _epochs_ 80. memperoleh grafik model _training_ dan validasi
+Dari hasil yang dilakukan terdapat pembagian gambar/citra sebanyak 88% _training data_, 8% _valid data_, 4% _testing data_. Dengan menggunakan _img_ 416, _batch_ 8 dan _epochs_ 80. memperoleh grafik model _training_ dan validasi
 
 ![image](https://github.com/user-attachments/assets/98987217-14e0-4e99-a65d-3c18a9c05b14)
 
