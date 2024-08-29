@@ -6,7 +6,7 @@ Metode yang digunakan dalam mendeteksi bunga iris ungu :
 1. Pengumpulan data dilakukan dengan tujuan memperoleh dataset sebanyak 150 gambar/citra dengan menggunakan bahasa pemrograman _Python_
 2. Processing data melibatkan tahapan _labelling_ dataset dengan tujuan menandai objek yang diteliti dengan dikelompokan berdasarkan jenisnya.
 3. Merancang Yolo
-Peracancangan dibuat dengan mengkloning _repository _YOLOv5 dan mendapatkan klasifikasi sebanyak 8 kelas
+Peracancangan dibuat dengan mengkloning repository YOLOv5 dan mendapatkan klasifikasi sebanyak 8 kelas
 
 ![image](https://github.com/user-attachments/assets/cf141b35-a84d-4604-a235-f6c0cb6da14a)
 
