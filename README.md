@@ -18,12 +18,12 @@ Dari hasil yang dilakukan terdapat pembagian gambar/citra sebanyak 88% _training
 
 ![image](https://github.com/user-attachments/assets/d3c782e5-3e5f-434e-a88f-a1188e00cd11)
 
-Serta terdapat output berupa kurva _precision-recall_dengan kurva tertinggi paling tinggi yaitu bunga iri ungu, dapat dikatakan kinerja model berjalan dengan baik pada saat mengenali objek yang diuji
+Serta terdapat output berupa kurva _precision-recall_ dengan kurva tertinggi paling tinggi yaitu bunga iri ungu, dapat dikatakan kinerja model berjalan dengan baik pada saat mengenali objek yang diuji
 
 ![image](https://github.com/user-attachments/assets/d326de3d-fa8a-4f67-8c80-939d80689256)
 
 # Hasil dengan mendeteksi gambar
-Mendeteksi Bunga iris ungu menggunakan gambar dengan tingkat kepercayaan 92%
+Mendeteksi Bunga iris ungu dengan memasukan gambar sehingga mendapatkan tingkat kepercayaan 92%
 
 ![image](https://github.com/user-attachments/assets/a5205213-c249-4fd4-a8a4-da517551991a)
 
