@@ -1,4 +1,4 @@
-# Mendeteksi Tingkat Kepercayaan Bunga-Iris Ungu menggunakan YOLOv5
+# Mendeteksi Tingkat Kepercayaan Bunga Iris Ungu menggunakan YOLOv5
 Metode yang digunakan dalam mendeteksi bunga iris ungu :
 
 ![image](https://github.com/user-attachments/assets/5152613c-5788-44d3-89de-723744e9ab12)
